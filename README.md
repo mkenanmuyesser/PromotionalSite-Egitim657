@@ -1,2 +1,9 @@
 # PromotionalSite-Egitim657
- PromotionalSite
+
+Made in 2015
+
+Promotional purpose website project
+
+Monolithic and without admin panel, static web project
+
+Used technologies : C#, Asp.Net Mvc
